@@ -6,7 +6,18 @@ asdz
 
 sdfcsdf wifxjsdfjcsdx
 
+
+Zmiana wprowadzona w Branchu master !!!!
+
 Zmiana wprowadzona w Branchu
+>>>>>>> new
 asdzxasz
 
 !!!!!!!!!!!! - branch new - w celu uzyskania konfliktu
+
+------- Cwiczenie - zmiane wprowadzam na Master - Lokalnie, ¿eby ³¹dnie zrobiæ add.commit i push ;)
+
+
+--_-_---_---__-::;;;;;:;:;:
+
+-- Æwiczenie Dodanie Kolejen jak, ¿e zacnej zmiany na Gita co By Chwaliæ siê Wszem i W Obec Majestaty Rekruterów ;) 
