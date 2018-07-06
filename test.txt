@@ -6,7 +6,11 @@ asdz
 
 sdfcsdf wifxjsdfjcsdx
 
+
 Zmiana wprowadzona w Branchu master !!!!
+
+Zmiana wprowadzona w Branchu
+>>>>>>> new
 asdzxasz
 
 !!!!!!!!!!!! - branch new - w celu uzyskania konfliktu
